@@ -7,4 +7,3 @@ Building a Top Sports Brands Architecture with Spring Boot. In this spring boot 
 3. Edge Service (Edge-Service) – It is similar to the standalone Item service created in Bootiful Development with Spring Boot and Angular. However, it will have fallback capabilities which prevent the client from receiving an HTTP error when the service is not available. It is accessible at : http://localhost:8089/top-brands
 
 
-https://d1jnx9ba8s6j9r.cloudfront.net/blog/content/ver.1554792280/uploads/2018/03/nn.png
